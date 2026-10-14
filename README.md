@@ -1,24 +1,24 @@
-# 금나현 Aqua Tech Portfolio
-
-React 없이 HTML, CSS, JavaScript 모듈로 만든 영상편집자·모션디자이너 포트폴리오입니다. Vite는 개발 서버와 정적 파일 빌드에만 사용합니다.
-
-## 실행
-
-```bash
-npm install
-npm run dev
-```
-
-브라우저에서 터미널에 표시된 주소를 엽니다. 배포용 파일은 `npm run build`로 `dist/`에 생성됩니다.
-
-## 작품 바꾸기
-
-프로젝트 목록과 상세 정보는 `data/projects.js`에서 관리합니다. 실제 영상은 `public/media/`에 넣고 각 항목의 `video`, `thumbnail`, `keyFrames` 경로를 지정하면 됩니다. 연락처와 프로필은 같은 파일의 `portfolio` 객체에서 수정할 수 있습니다.
-
-## 주요 파일
-
-- `index.html`: 문서 진입점
-- `style.css`: 전체 디자인과 responsive 스타일
-- `app.js`: Home, 프로젝트 상세 화면 렌더링과 필터·영상 안내 상호작용
-- `data/projects.js`: 작품 및 포트폴리오 데이터
-- `public/assets/`: 데모 썸네일과 Y2K 액세서리 이미지
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&text=hi&animation=&fontColor=000000&fontSize=50" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 성장하는 디자이너 금나현입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://south-modem-eb2.notion.site/NAHYEON-DB-Creative-Portfolio-3f7e451c236a8104878be765ccd89aa9> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://south-modem-eb2.notion.site/NAHYEON-DB-Creative-Portfolio-3f7e451c236a8104878be765ccd89aa9"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
